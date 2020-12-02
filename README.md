@@ -21,4 +21,4 @@ Currently , I have the following features implemented in my project :
 3. Security packet in which I have AES class and PublicKeyEncryption class , in order to ensure that the traffic is encrypted . The implementation isn't finished , because now Client and Server do not communicate between them the secret key .
 4. Client and Server classes that implements all above . They can send messages between them , an important thing is that if one side send a message it needs to wait for a response in order to be able to sent a new message .
 
-## I know that isn't much implemented , but it's my work .
+## I know that isn't much implemented , but I tried my best .
